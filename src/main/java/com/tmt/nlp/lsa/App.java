@@ -1,4 +1,4 @@
-package com.inspur.nlp.Lsi_Lsa;
+package com.tmt.nlp.lsa;
 
 /**
  * Hello world!
